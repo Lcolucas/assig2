@@ -1,0 +1,17 @@
+/* 
+   CSS File Name: styles.css
+   Author: Lucas Oliveira
+*/
+table {
+    border: 1px double black
+}
+
+td {
+    border: 1px double black;
+    padding: 15px;
+}
+
+th {
+    border: 1px double black;
+    padding: 15px;
+}

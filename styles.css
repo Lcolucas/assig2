@@ -1,0 +1,24 @@
+/* 
+   CSS File Name: styles.css
+   Author: Lucas Oliveira
+*/
+table {
+    border: 1px double black
+}
+
+td {
+    border: 1px double black;
+    padding: 30px;
+}
+
+th {
+    border: 1px double black;
+    padding: 30px;
+}
+
+.brazil {
+    font-size: 15px; 
+    font-family: Times New Roman, sans-serif; 
+    text-align: left; 
+    padding: 10px 30px 10px 50px; 
+}
